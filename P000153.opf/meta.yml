@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000153
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །གདུལ་ཞིང་སྣོད་བཅུད་ཀྱི་འཇིག་རྟེན་རིམ་པར་ཕྱེ་བ། །
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
-  sku: RDI-TOK-01-1
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-TOK-01-1
 web_metadata:
   title:
     en: Myriad Worlds:Buddhist Cosmology in Abhidharma, Kalachakra, and Dzogchen
